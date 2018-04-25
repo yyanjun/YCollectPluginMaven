@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.collect.plugin</groupId>
-  <artifactId>YCollectPlugin</artifactId>
+  <artifactId>collect_gradle_plugin</artifactId>
   <version>1.0.0</version>
   <dependencies>
     <dependency>
