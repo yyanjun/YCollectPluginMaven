@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.codeless</groupId>
-  <artifactId>collect_gradle_plugin</artifactId>
+  <artifactId>collect-gradle-plugin</artifactId>
   <version>1.0.0</version>
   <dependencies>
     <dependency>
