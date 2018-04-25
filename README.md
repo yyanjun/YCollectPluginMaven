@@ -21,4 +21,4 @@ buildscript {
 (2)`app`的`build.grade`中添加
 	
 	// 引用远程maven仓库的插件
-    apply plugin: 'com.collect.plugin'
+    apply plugin: 'com.codeless'
