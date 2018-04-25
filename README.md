@@ -13,7 +13,7 @@ buildscript {
     }
     dependencies {
         ...
-        classpath 'com.collect.plugin:YCollectPluginn:1.0.0'
+        classpath 'com.collect.plugin:collect_gradle_plugin:1.0.0'
         ...
     }
 }
