@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.collect.plugin</groupId>
+  <groupId>com.codeless</groupId>
   <artifactId>collect_gradle_plugin</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20180425070440</lastUpdated>
+    <lastUpdated>20180425073431</lastUpdated>
   </versioning>
 </metadata>
